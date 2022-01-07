@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lvanroye, PhD student at KU Leuven
+- 👋 Hi, I’m @lvanroye, PhD student at Robotics Research group, KU Leuven
 - 👀 I’m interested in Nonlinear Optimization, Robotics, High Performance Computing
 - 💞️ I’m looking to collaborate on Nonlinear Optimal Control Challenges
 - 📫 How to reach me lander.vanroye@kuleuven.be
